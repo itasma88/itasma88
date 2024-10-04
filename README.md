@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asma
-- 👀 I’m interested in programming and cybersecurity
-- 🌱 I’m currently learning fundamentals about networking and programming 
+- 👀 I’m interested in Web Development and cybersecurity
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 You can contact me at asmaaorabi8802@gmail.com 
 
 <!---
